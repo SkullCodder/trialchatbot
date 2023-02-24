@@ -2,7 +2,7 @@ import telegram
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
 # Create a new bot instance
-bot = telegram.Bot(token='YOUR_TOKEN_HERE')
+bot = telegram.Bot(token='1925876251:AAGMF6qHrSx78EwUSUtPTHdQdKGz-_oYPI8')
 
 # Define a command handler
 def start(update, context):
